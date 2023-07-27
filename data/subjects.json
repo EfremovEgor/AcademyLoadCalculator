@@ -1,0 +1,3702 @@
+[
+    {
+        "name": "Professional Russian (as a foreign language)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 17
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Computer Vision Technology",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Computer Vision Technology",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Machine Learning in Business Processes",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0432 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Machine Learning in Business Processes",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0432 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Game Theory",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u043e\u0440\u0438\u044f \u0438\u0433\u0440",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Game Theory",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u043e\u0440\u0438\u044f \u0438\u0433\u0440",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Russian language (as a foreign language)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "English Language",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 10
+    },
+    {
+        "name": "Cross-Cultural Training",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Programming",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Programming",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Elective Module: Foreign Language",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 5,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Databases",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Databases",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Advanced Methods of Remote Sensing and Geoinformation Systems",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 4,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Advanced Methods of Remote Sensing and Geoinformation Systems",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 4,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Aerospace Systems",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Aerospace Systems",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Aerospace Systems",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Structures & Materials Modelling",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Structures & Materials Modelling",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Structures & Materials Modelling",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "System Design",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "System Design",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "On-board Energy",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "On-board Energy",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Dynamics and Control of Space Systems",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Dynamics and Control of Space Systems",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Dynamics and Control of Space Systems",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 4,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Machine Learning and Big Data Mining",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "From Data Acquisition to Data Treatment",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Machine Learning and Big Data Mining",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "From Data Acquisition to Data Treatment",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Applied Mechanics and Engineering",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Systems Engineering",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Applied Mechanics and Engineering",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Systems Engineering",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Modelling and Validation",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Modelling and Validation",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "Russian as a Foreign Language",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0430-\u0441",
+        "total_time_for_group": 4,
+        "semester": 1,
+        "semester_duration": 10,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 17
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0427\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0427\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0410\u043d\u0430\u043b\u0438\u0437 \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u0435\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0410\u043d\u0430\u043b\u0438\u0437 \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u0435\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041a\u0440\u0438\u043f\u0442\u043e\u043b\u043e\u0433\u0438\u044f \u0438 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041a\u0440\u0438\u043f\u0442\u043e\u043b\u043e\u0433\u0438\u044f \u0438 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0433\u0440\u043e\u0437\u044b \u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f \u043a\u0438\u0431\u0435\u0440\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0433\u0440\u043e\u0437\u044b \u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f \u043a\u0438\u0431\u0435\u0440\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Geoinformation Systems and Applications",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Geoinformation Systems and Applications",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Deep Learning)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Deep Learning)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0449\u0435\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u044b",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0449\u0435\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u044b",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0424\u0418\u043c\u043407\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 17
+    },
+    {
+        "name": "\u041d\u0438\u0437\u043a\u043e\u0440\u0435\u0441\u0443\u0440\u0441\u043d\u044b\u0435 \u043a\u0440\u0438\u043f\u0442\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0438 \u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0432 IoT",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041d\u0438\u0437\u043a\u043e\u0440\u0435\u0441\u0443\u0440\u0441\u043d\u044b\u0435 \u043a\u0440\u0438\u043f\u0442\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0438 \u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0432 IoT",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0441\u0438\u0441\u0442\u0435\u043c \u0437\u0430\u0449\u0438\u0442\u044b \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0441\u0438\u0441\u0442\u0435\u043c \u0437\u0430\u0449\u0438\u0442\u044b \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0417\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0435 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0417\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0435 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0417\u0430\u0449\u0438\u0442\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e\u0442 \u0443\u0442\u0435\u0447\u043a\u0438 \u043f\u043e \u0441\u043a\u0440\u044b\u0442\u044b\u043c \u043a\u0430\u043d\u0430\u043b\u0430\u043c",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0417\u0430\u0449\u0438\u0442\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e\u0442 \u0443\u0442\u0435\u0447\u043a\u0438 \u043f\u043e \u0441\u043a\u0440\u044b\u0442\u044b\u043c \u043a\u0430\u043d\u0430\u043b\u0430\u043c",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0438\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0430\u0443\u0442\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0438\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0430\u0443\u0442\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Professional Russian (as a foreign language)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 18
+    },
+    {
+        "name": "Advanced Methods of Flight Mechanics",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Advanced Methods of Flight Mechanics",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Advanced Methods of Flight Mechanics",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Aerospace System Guidance and Control",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Aerospace System Guidance and Control",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Aerospace System Guidance and Control",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Space Traffic Management",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Space Traffic Management",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Russian as a Foreign Language",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Professional Russian (as a foreign language)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 17
+    },
+    {
+        "name": "Professional Russian (as a foreign language)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "History and methodology of science",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Information Technology in Mathematical Modelling",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Information Technology in Mathematical Modelling",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Numerical Methods for Solving Mathematical Modeling Problems",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Numerical Methods for Solving Mathematical Modeling Problems",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Programming Technology",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Programming Technology",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Machine Learning and Big Data Mining",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Machine Learning and Big Data Mining",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Advanced Methods of Space Flight Mechanics",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Advanced Methods of Space Flight Mechanics",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Advanced Methods of Earth Remote Sensing",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Advanced Methods of Earth Remote Sensing",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Deep Learning)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Deep Learning)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Russian as a Foreign Language",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Russian as a Foreign Language",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043421\u0430",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Applied Problems of Mathematical Modeling",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 18
+    },
+    {
+        "name": "Applied Problems of Mathematical Modeling",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Contemporary Problems of Control Theory",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Contemporary Problems of Control Theory",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Numerical Methods for Solving Mathematical Modeling Problems",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Numerical Methods for Solving Mathematical Modeling Problems",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Professional Russian (as a foreign language)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Professional Russian (as a foreign language)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Russian for Foreign Students",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Dynamics and Control of Space Systems",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Dynamics and Control of Space Systems",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Dynamics and Control of Space Systems",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 3,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Dynamics and Control of Space Systems",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Applied Mechanics and Engineering",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 3,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Applied Mechanics and Engineering",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "History and Methodology of Science",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "History and Methodology of Science",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Modern Methods of Space Flight Mechanics",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Modern Methods of Space Flight Mechanics",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Remote Sensing and Geoinformation Systems",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Remote Sensing and Geoinformation Systems",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Big Data Mining",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Big Data Mining",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0435 \u0437\u0440\u0435\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0435 \u0437\u0440\u0435\u043d\u0438\u0435",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Elective Module",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043a\u0430\u043a \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043420\u0430-\u0434",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 17
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0427\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0427\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0440\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0440\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0440\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0440\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Geoinformation Systems and Applications",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Geoinformation Systems and Applications",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0435 \u0437\u0440\u0435\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0435 \u0437\u0440\u0435\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Cognitive Information Technologies in Artificial Intelligence",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041a\u043e\u0433\u043d\u0438\u0442\u0438\u0432\u043d\u044b\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0435",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Cognitive Information Technologies in Artificial Intelligence",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041a\u043e\u0433\u043d\u0438\u0442\u0438\u0432\u043d\u044b\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0435",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Web Application Security",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Web Application Security",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Game Theory",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u043e\u0440\u0438\u044f \u0438\u0433\u0440",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Game Theory",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u043e\u0440\u0438\u044f \u0438\u0433\u0440",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0449\u0435\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u044b",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0449\u0435\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u044b",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u0423\u0421\u043c\u043411\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 17
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0427\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0427\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Geoinformation Systems and Applications",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Geoinformation Systems and Applications",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0432 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0432 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b Astra Linux \u0438 \u0438\u0445 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b Astra Linux \u0438 \u0438\u0445 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0437\u0430\u0449\u0438\u0442\u044b \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b Astra Linux Special Edition",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0437\u0430\u0449\u0438\u0442\u044b \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b Astra Linux Special Edition",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision Technology",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0433\u043e \u0437\u0440\u0435\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Virtual Reality and Computer Vision Technology",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0433\u043e \u0437\u0440\u0435\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Cognitive Information Technologies in Artificial Intelligence",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041a\u043e\u0433\u043d\u0438\u0442\u0438\u0432\u043d\u044b\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0435",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Cognitive Information Technologies in Artificial Intelligence",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041a\u043e\u0433\u043d\u0438\u0442\u0438\u0432\u043d\u044b\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0435",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Game Theory",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u043e\u0440\u0438\u044f \u0438\u0433\u0440",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Game Theory",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u043e\u0440\u0438\u044f \u0438\u0433\u0440",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0449\u0435\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u044b",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0449\u0435\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u044b",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043403\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "used": false,
+        "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+        "semester_duration": 17
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0427\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0427\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0438 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u0435\u0442\u0430",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0438 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u0435\u0442\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0438 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u0435\u0442\u0430",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0438 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u0435\u0442\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0437\u043e\u043d\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0417\u0435\u043c\u043b\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0437\u043e\u043d\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0417\u0435\u043c\u043b\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0437\u043e\u043d\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0417\u0435\u043c\u043b\u0438",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0437\u043e\u043d\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0417\u0435\u043c\u043b\u0438",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0433\u0435\u043e\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0433\u0435\u043e\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 3,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0440\u0430\u0435\u043a\u0442\u043e\u0440\u0438\u0439 \u0441\u043f\u0443\u0441\u043a\u0430 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u043d\u0430 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u043f\u043b\u0430\u043d\u0435\u0442\u044b",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0440\u0430\u0435\u043a\u0442\u043e\u0440\u0438\u0439 \u0441\u043f\u0443\u0441\u043a\u0430 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u043d\u0430 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u043f\u043b\u0430\u043d\u0435\u0442\u044b",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0440\u0430\u0435\u043a\u0442\u043e\u0440\u0438\u0439 \u0441\u043f\u0443\u0441\u043a\u0430 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u043d\u0430 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u043f\u043b\u0430\u043d\u0435\u0442\u044b",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0441\u043d\u043e\u0432\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435\u043c",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0441\u043d\u043e\u0432\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435\u043c",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0433\u043d\u043e\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0437\u0430\u0441\u043e\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u043e\u0433\u043d\u043e\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0437\u0430\u0441\u043e\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Machine Learning and Big Data Mining",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Machine Learning and Big Data Mining",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Deep Learning)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Deep Learning)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "Artificial Neural Networks (Reinforcement Learning)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 (\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c)",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u043f\u043e \u0432\u044b\u0431\u043e\u0440\u0443",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 2,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 1,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0417\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0435 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u0417\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0435 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435",
+        "holding_type": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+        "course": 2,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 3,
+        "semester_duration": 17,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0449\u0435\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u044b",
+        "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    },
+    {
+        "name": "\u041e\u0431\u0449\u0435\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u044b",
+        "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+        "course": 1,
+        "group_name": "\u0418\u041f\u041c\u043c\u043401\u0440",
+        "total_time_for_group": 1,
+        "semester": 2,
+        "semester_duration": 18,
+        "used": false
+    }
+]

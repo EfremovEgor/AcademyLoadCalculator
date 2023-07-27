@@ -1,0 +1,47 @@
+[
+    {
+        "uuid": "01d130c8-5cc9-45ab-9a38-57a1cb0ec6f2",
+        "full_name": "412531345212453",
+        "birth_date": "0013-05-24",
+        "phone_number": "12345",
+        "degree": "12345",
+        "academic_title": "12345",
+        "position": "\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440, \u0431/\u0441",
+        "rate": 12345.0,
+        "subjects": [
+            {
+                "name": "Professional Russian (as a foreign language)",
+                "holding_type": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440",
+                "course": 2,
+                "semester": 3,
+                "group_name": "\u0418\u041f\u041c\u043c\u043403\u0430",
+                "total_time_for_group": 2,
+                "used": false,
+                "semester_duration": 17,
+                "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430"
+            },
+            {
+                "name": "Artificial Neural Networks (Reinforcement Learning)",
+                "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+                "course": 2,
+                "semester": 3,
+                "group_name": "\u0418\u0424\u0418\u043c\u043404\u0440",
+                "total_time_for_group": 2,
+                "used": false,
+                "semester_duration": 17,
+                "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430"
+            },
+            {
+                "name": "Artificial Neural Networks (Reinforcement Learning)",
+                "holding_type": "\u041b\u0435\u043a\u0446\u0438\u044f",
+                "course": 2,
+                "semester": 3,
+                "group_name": "\u0418\u0423\u0421\u043c\u043415\u0430",
+                "total_time_for_group": 2,
+                "used": false,
+                "semester_duration": 18,
+                "study_level": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430"
+            }
+        ]
+    }
+]
