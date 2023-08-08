@@ -164,3 +164,4 @@ temp2.py
 temp.py
 *.spec
 .vscode
+data/*

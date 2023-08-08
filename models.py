@@ -35,7 +35,7 @@ class Subject(BaseModel):
     study_level: Literal[
         "Бакалавриат", "Специалитет", "Магистратура", "Аспирантура"
     ] = "Магистратура"
-    _subject_type: Literal[
+    subject_type: Literal[
         "Курсовые работы / проекты",
         "Базовая компонента",
         "Вариативная компонента",
@@ -44,11 +44,29 @@ class Subject(BaseModel):
         "Государственная итоговая аттестация",
         "Факультатив",
     ]
-    _department: str
-    _credit: int
+    department: str | None
+    credit: int | None
+
+    # def __eq__(self, __value: object) -> bool:
+    #     if isinstance(__value, Subject):
+    #         for item1, item2 in zip(dict(__value).values(), dict(self).values()):
+    #             if item1 != item2:
+    #                 return False
+    #         return True
+
+    #     return False
 
 
 class PersonResponse(Person):
     load_from_rate: int
     salary_from_rate: float
-    actual_load: tuple[float, float]
+    actual_load: tuple[float, float, float, float]
+
+
+class SubjectWithTeacherResponse(Subject):
+    teacher: Person | None
+
+
+class Group(BaseModel):
+    name: str
+    students_amount: int

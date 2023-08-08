@@ -18,6 +18,7 @@ from utils import (
     response_from_model,
     override_models_file,
 )
+import utils
 from uuid import UUID
 
 eel.init("static_web_folder", allowed_extensions=[".js", ".html"])
@@ -30,22 +31,27 @@ def get_positions() -> list[dict]:
 
 @eel.expose
 def get_subjects() -> list[dict]:
-    return response_from_model(get_data_by_class(models.Subject))
+    return response_from_model(
+        sorted(get_data_by_class(models.Subject), key=lambda a: a.name)
+    )
 
 
 @eel.expose
 def get_subjects_by_field(fields: list[str], values: list[str]) -> list[dict]:
     return response_from_model(
-        [
-            item
-            for item in get_data_by_class(models.Subject)
-            if all(
-                [
-                    str(getattr(item, field)) == str(values[i])
-                    for i, field in enumerate(fields)
-                ]
-            )
-        ]
+        sorted(
+            [
+                item
+                for item in get_data_by_class(models.Subject)
+                if all(
+                    [
+                        str(getattr(item, field)) == str(values[i])
+                        for i, field in enumerate(fields)
+                    ]
+                )
+            ],
+            key=lambda a: a.name,
+        )
     )
 
 
@@ -91,19 +97,27 @@ def get_persons() -> list[models.PersonResponse] | list:
     return response_from_model(get_person_responses())
 
 
-eel.start("index.html", shutdown_delay=1, mode="chrome")
-# Уровень обучения
-# Порядок по части(обязательная, вариативная, по выбору)
-# В таблице без конкретики названия предметов
-# При нажатии на предмет:
+@eel.expose
+def get_unique_subjects_by_type(study_level: str) -> list[dict]:
+    data = utils.get_unique_subjects_by_type(study_level)
+    # for key, value in data.items():
+    #     data[key] = [response_from_model(item) for item in value]
+    return data
 
 
-# 			    Название
+@eel.expose
+def get_subjects_response_by_groups(study_level: str, name: str) -> dict:
+    data = utils.get_subjects_response_by_groups(study_level, name)
+    for key, value in data.items():
+        data[key] = sorted(
+            [response_from_model(item) for item in value],
+            key=lambda a: a["holding_type"],
+        )
+    return data
 
 
-# 	Какие типы занятия существуют и напротив преподаватель
-# 	Часы в каждом семестре с разделением на типы
-# 	В каких направлениях читается
-
-
-# При клике на преподавателя информация о преподавателе
+eel.start(
+    "index.html",
+    shutdown_delay=1,
+    mode="chrome",
+)

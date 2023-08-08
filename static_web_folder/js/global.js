@@ -4,8 +4,15 @@ function loadHeader(doc) {
       <header class="header">
       <div class="container"><a  href="../index.html" class="header-item">
       ППС
-      </a></div>
-          
+      </a>
+      <a  href="../subjects_masters.html" class="header-item">
+      Магистратура
+      </a>
+      <a  href="../subjects_bachelor.html" class="header-item">
+      Бакалавриат
+      </a>
+
+      </div>
       </header>
       `;
 

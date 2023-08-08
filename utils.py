@@ -53,9 +53,11 @@ def response_from_model(data: list[B] | B) -> list[dict] | dict:
     return [json.loads(item.model_dump_json()) for item in data]
 
 
-def calculate_actual_load(person: models.Person) -> tuple[float, float]:
-    actual_load = list([0, 0])
-
+def calculate_actual_load(person: models.Person) -> tuple[float, float, float, float]:
+    actual_load_masters = list([0, 0])
+    actual_load_bachelor = list([0, 0])
+    if person.full_name == "новый2":
+        print(person)
     to_calculate = list()
     for subject in person.subjects:
         for item in to_calculate:
@@ -72,10 +74,17 @@ def calculate_actual_load(person: models.Person) -> tuple[float, float]:
             to_calculate.append(subject)
 
     for subject in to_calculate:
-        actual_load[not (subject.semester % 2)] += (
-            subject.total_time_for_group * subject.semester_duration
-        )
-    return tuple(actual_load)
+        if subject.study_level == "Бакалавриат":
+            actual_load_bachelor[not (subject.semester % 2)] += (
+                subject.total_time_for_group * subject.semester_duration
+            )
+        if subject.study_level == "Магистратура":
+            actual_load_masters[not (subject.semester % 2)] += (
+                subject.total_time_for_group * subject.semester_duration
+            )
+    actual_load_masters.extend(actual_load_bachelor)
+
+    return tuple(actual_load_masters)
 
 
 def get_person_responses() -> list[models.PersonResponse] | list:
@@ -130,3 +139,65 @@ def get_data_by_class(cls: Type[B]) -> list[B] | list:
             return list()
 
     return [cls(**item) for item in data]
+
+
+def get_subjects_by_study_level() -> dict:
+    data = get_data_by_class(models.Subject)
+    response = dict()
+    for item in data:
+        if response.get(item.study_level) is not None:
+            response[item.study_level].append(item)
+        else:
+            response[item.study_level] = [item]
+    print(response.keys())
+
+
+def get_unique_subjects_by_type(study_level: str) -> dict:
+    data = get_data_by_class(models.Subject)
+    response = dict()
+    for item in data:
+        if item.study_level != study_level:
+            continue
+        if response.get(item.subject_type) is not None:
+            if item.name not in response[item.subject_type]:
+                response[item.subject_type].append(item.name)
+        else:
+            response[item.subject_type] = [item.name]
+    for key, value in response.items():
+        response[key] = sorted(value)
+    return response
+
+
+def get_subject_by_group_name(study_level: str, name: str = None) -> dict:
+    data = get_data_by_class(models.Subject)
+    response = dict()
+    for item in data:
+        if item.study_level == study_level and (
+            item.name.lower().strip() == name.lower().strip()
+            if name is not None
+            else True
+        ):
+            if response.get(item.group_name) is not None:
+                response[item.group_name].append(item)
+            else:
+                response[item.group_name] = [item]
+    return response
+
+
+def get_subject_teacher(subject: models.Subject) -> models.Person | None:
+    teachers = get_data_by_class(models.Person)
+    for teacher in teachers:
+        if subject in teacher.subjects:
+            return teacher
+
+
+def get_subjects_response_by_groups(study_level: str, name: str) -> dict:
+    data = get_subject_by_group_name(study_level, name)
+    for key, value in data.items():
+        data[key] = [
+            models.SubjectWithTeacherResponse(
+                **dict(item), teacher=get_subject_teacher(item)
+            )
+            for item in value
+        ]
+    return data

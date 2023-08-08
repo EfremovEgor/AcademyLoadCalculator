@@ -60,6 +60,13 @@ td {
   font-weight: 700;
   background: #0079c1;
   margin-bottom: 20px;
+  .container {
+    display: flex;
+    flex-direction: row;
+  }
+  .container {
+    gap: 0px;
+  }
 }
 
 .header-item {
@@ -258,14 +265,6 @@ span[name="holding_type"] {
   max-width: none;
 }
 
-/* select[name="holding_type"] {
-  width: 200px;
-  max-width: none;
-}
-select[name="holding_type"] {
-  width: 200px;
-  max-width: none;
-} */
 .subject_headings_container {
   display: flex;
   flex-direction: row;
@@ -276,4 +275,21 @@ select[name="holding_type"] {
 }
 .subject_heading {
   width: fit-content;
+}
+.heading {
+  margin-top: 100px;
+}
+.table_clickable {
+  cursor: pointer;
+}
+.modalInvestigateSubjectDialog-items {
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.teacher_clickable {
+  cursor: pointer;
+}
+#modalInvestigateEmployeeDialog {
+  z-index: 2;
 }
